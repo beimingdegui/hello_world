@@ -8,5 +8,8 @@ return 0;
 }
  modi3
 
+
 A
 B
+C
+
